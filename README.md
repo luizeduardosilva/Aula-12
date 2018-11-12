@@ -1,2 +1,2 @@
-# Aula-12
-Econometria Gerson
+# 12-Processos-ARIMA
+Processos autorregressivos integrados de médias móveis
